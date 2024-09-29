@@ -10,7 +10,7 @@ public class MathUntil {
         return true;
     }
 
-    public static int gcd(int a, int b){
+    /*public static int gcd(int a, int b){
         
-    }
+    }*/
 }
